@@ -1,16 +1,14 @@
-### Hi there 👋
+<img src="./background.jpg" width="55%" height="55%">
 
-<!--
-**sidongmen/sidongmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Smartphone Application Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interest
+- ⚡Application State Management(RN, Flutter)
+- 🛠️Google Cloud Platform(Especially, AWS)
+- 🚀Backend with Node.js, Spring etc
+- ❤️Leadership, Mentoring, Writing, Presentation
+
+<img src="./aws-certified-solutions-architect-associate.png" width="15%" height="15%">
+                                                                                 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidongmen&layout=compact)](https://github.com/sidongmen/github-readme-stats)
