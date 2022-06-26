@@ -5,7 +5,7 @@
 
 ### Interest
 - ⚡Application State Management(RN, Flutter)
-- 🛠️Google Cloud Platform(Especially, AWS)
+- 🛠️Google Cloud Platform(Also, AWS)
 - 🚀Backend with Node.js, Spring etc
 - ❤️Leadership, Mentoring, Writing, Presentation
 
