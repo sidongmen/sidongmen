@@ -2,12 +2,13 @@
 
 
 ### Smartphone Application Developer
+- Currently working as a iOS Developer in ***teamlab***, Japan
 
-### Interest
+### Interest in
 - ⚡Application State Management(RN, Flutter)
 - 🛠️Google Cloud Platform(Also, AWS)
 - 🚀Backend with Node.js, Spring etc
-- ❤️Leadership, Mentoring, Writing, Presentation
+- ❤️Leadership, Mentoring, Writing, Presentation=>(MBTI: ENTJ)
 
 <img src="./aws-certified-solutions-architect-associate.png" width="15%" height="15%">
                                                                                  
