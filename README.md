@@ -5,7 +5,7 @@
 - Currently working as a iOS Developer in ***teamlab***, Japan
 
 ### Interest in
-- ⚡Application State Management(RN, Flutter)
+- ⚡Application State Management(RN, Flutter, Swift)
 - 🛠️Google Cloud Platform(Also, AWS)
 - 🚀Backend with Node.js, Spring etc
 - ❤️Leadership, Mentoring, Writing, Presentation=>(MBTI: ENTJ)
