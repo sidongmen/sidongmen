@@ -2,7 +2,8 @@
 
 
 ### Smartphone Application Developer
-- Currently working as a iOS Developer in ***teamlab***, Japan
+- Bachelor of Computer Science, ***University of Ulsan***, South Korea
+- Currently working as an iOS Developer in ***teamlab***, Japan
 
 ### Interest in
 - ⚡Application State Management(RN, Flutter, Swift)
