@@ -2,7 +2,7 @@
 
 
 ### Smartphone Application Developer
-- Bachelor of Computer Science, ***University of Ulsan***, South Korea
+- Bachelor of Computer Engineering, ***University of Ulsan***, South Korea
 - Currently working as an iOS Developer in ***teamlab***, Japan
 
 ### Interest in
