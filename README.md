@@ -11,6 +11,9 @@
 - 🚀Backend with Node.js, Spring etc
 - ❤️Leadership, Mentoring, Writing, Presentation=>(MBTI: ENTJ)
 
+<div>
 <img src="./aws-certified-solutions-architect-associate.png" width="15%" height="15%">
+<img src="./aws-certified-developer.png" width="15%" height="15%">
+</div>
                                                                                  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidongmen&layout=compact)](https://github.com/sidongmen/github-readme-stats)
