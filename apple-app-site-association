@@ -1,0 +1,10 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "com.sidongmen.Universal-Link-Test",
+            "paths": ["*"]
+            }
+        }]
+    }
+}
