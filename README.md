@@ -3,7 +3,7 @@
 
 ### Smartphone Application Developer
 - Bachelor of Computer Engineering, ***University of Ulsan***, South Korea (2016.02 ~ 2022.02)
-- Currently working as an iOS Developer at ***teamlab***, Japan (2022.04 ~ )
+- Currently working as an iOS Developer at ***teamlab***, Japan (2022.04 ~ 2024.08)
 
 ### Interest in
 - ⚡Application State Management(RN, Flutter, Swift)
