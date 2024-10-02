@@ -17,3 +17,10 @@
 <img src="./aws-certified-solutions-architect-associate.png" width="15%" height="15%">
 <img src="./aws-certified-developer.png" width="15%" height="15%">
 </div>
+
+### My App
+**Refilck**: フリック入力、日本語キーボードタイピング練習ゲームアプリ  
+台湾のApp Store「文字」部門で一時期１位になりました！
+
+[App Store](https://apps.apple.com/jp/app/reflick/id6445889207)  
+[Threads](https://www.threads.net/@reflick_app/reposts)
