@@ -2,7 +2,8 @@
 
 
 ### Smartphone Application Developer
-- Marketplace Dev Team, **iOS** Engineer at ***[coconala](https://coconala.co.jp/)***, Japan (2024.09 ~ Present)
+- IBM Consulting Team, Application Engineer, ***[IBM](https://www.ibm.com/jp-ja)***, Japan (2026.06 ~ Present)
+- Marketplace Dev Team, **iOS** Engineer at ***[Coconala](https://coconala.co.jp/)***, Japan (2024.09 ~ 2026.05)
 - Smartphone Team, **iOS・Flutter** Developer at ***[teamLab](https://www.team-lab.com/)***, Japan (2022.04 ~ 2024.08)
 - **React-Native** Developer at ***[ITEZ](https://www.itez.io/)***, South Korea (2020.07 ~ 2021.03)
 - <ins>Bachelor of Computer Engineering</ins>, ***University of Ulsan***, South Korea (2016.02 ~ 2022.02)
